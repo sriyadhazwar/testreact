@@ -14,3 +14,4 @@ after installing dependancies, run
 # loginreact
 # loginreact
 # testloginreactnative
+# reactnative
